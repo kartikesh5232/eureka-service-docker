@@ -34,7 +34,7 @@ tasks.named('test') {
 
 bootJar {
 	archiveBaseName.set('eurekajar1')
-	archiveVersion.set('')
+	archiveVersion.set('1')
 }
 
 jar {
