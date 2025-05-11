@@ -31,3 +31,12 @@ dependencyManagement {
 tasks.named('test') {
 	useJUnitPlatform()
 }
+
+bootJar {
+	archiveBaseName.set('eurekajar')
+	archiveVersion.set('')
+}
+
+jar {
+	enabled = false  // Prevents extra plain JAR
+}
