@@ -10,4 +10,5 @@ class EuDiscoveryServiceApplicationTests {
 	void contextLoads() {
 	}
 
+	
 }
