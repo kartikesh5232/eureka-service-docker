@@ -11,6 +11,8 @@ public class EuDiscoveryServiceApplication {
 	
 	public static void main(String[] args) {
 		SpringApplication.run(EuDiscoveryServiceApplication.class, args);
+
+		
 	}
 
 }
