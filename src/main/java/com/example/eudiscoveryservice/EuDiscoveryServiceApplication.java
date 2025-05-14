@@ -14,9 +14,7 @@ public class EuDiscoveryServiceApplication {
 		SpringApplication.run(EuDiscoveryServiceApplication.class, args);
 
 		
-		
 	}
-
 	
 
 }
